@@ -35,6 +35,7 @@ li {
 }
 
 @media (max-width: 900px) {
+
   h3,
   li {
     max-width: 70vw;
